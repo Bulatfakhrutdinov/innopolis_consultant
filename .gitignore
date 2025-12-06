@@ -40,3 +40,12 @@ data/raw/*
 
 data/parsed/*
 !data/parsed/.gitkeep
+
+qdrant_data/
+qdrant_storage/
+
+benchmark_results.csv
+
+.DS_Store
+
+.cache/

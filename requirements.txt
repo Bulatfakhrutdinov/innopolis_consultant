@@ -1,0 +1,12 @@
+python-dotenv
+aiogram
+qdrant-client
+llama-index
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama-index-vector-stores-qdrant
+llama-parse
+nest_asyncio
+pandas
+sentence-transformers

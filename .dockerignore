@@ -1,0 +1,12 @@
+data/
+qdrant_data/
+
+venv/
+env/
+.venv/
+anaconda3/
+
+__pycache__/
+.git/
+.idea/
+.DS_Store
